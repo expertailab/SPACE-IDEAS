@@ -2,9 +2,19 @@
 SPACE-IDEAS: A Dataset for Salient Information Detection in Space Innovation
 ===============================
 
-|PyPI pyversions|
+|License| |License2| |PyPI pyversions|
 
-Source code and datasets for the paper SPACE-IDEAS: A Dataset for Salient Information Detection in Space Innovation
+Developed with 💛 at `Expert.ai Research Lab <https://github.com/expertailab>`__
+
+-  License: Apache 2.0 (Software) and Attribution 4.0 International (Datasets)
+-  Paper: TBD
+
+Content
+---------------
+This repository contains **code** and **datasets** for the paper titled *SPACE-IDEAS: A Dataset for Salient Information Detection in Space Innovation*. It is organized as follows:
+
+- `data/processed <data/processed>`_: Contains the SPACE-IDEAS and SPACE-IDEAS+ datasets.
+- The rest of the repository contains the code for conducting paper experiments.
 
 Installation
 ------------
@@ -187,3 +197,16 @@ To cite this research please use the following: `TBD`
 
 .. |PyPI pyversions| image:: https://badgen.net/pypi/python/black
    :target: https://www.python.org/
+
+|Expert.ai favicon| Expert.ai
+-----------------------------
+
+At Expert.ai we turn language into data so humans can make better
+decisions. Take a look `here <https://expert.ai>`__!
+
+.. |License| image:: https://img.shields.io/badge/License-Apache_2.0-blue.svg
+   :target: https://opensource.org/licenses/Apache-2.0
+.. |License2| image:: https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg
+   :target: https://creativecommons.org/licenses/by/4.0/
+.. |Expert.ai favicon| image:: https://www.expert.ai/wp-content/uploads/2020/09/favicon-1.png
+   :target: https://expert.ai
