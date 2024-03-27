@@ -110,7 +110,7 @@ Now we can obtain the prediction metrics with:
    python scripts/sequential_sentence_classification_metrics.py --prediction_test_file sequential_sentence_classification/space-ideas-predictions.json --gold_test_file data/processed/test.jsonl
 
 Sequential Transfer Learning
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Single-sentence classification:**
 
 We can train a model, using for example SPACE-IDEAS plus dataset, and use that trained model to finetune on the SPACE-IDEAS dataset, we can do this with the following command:
