@@ -7,7 +7,7 @@ SPACE-IDEAS: A Dataset for Salient Information Detection in Space Innovation
 Developed with 💛 at `Expert.ai Research Lab <https://github.com/expertailab>`__
 
 -  License: Apache 2.0 (Software) and Attribution 4.0 International (Datasets)
--  Paper: TBD
+-  Paper: `arXiv <https://arxiv.org/abs/2403.16941>`__
 
 Content
 ---------------
