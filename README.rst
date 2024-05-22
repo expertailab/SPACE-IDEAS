@@ -192,7 +192,28 @@ In line 135 of the script, we can set the combinations of datasets that we want 
 How to cite
 -----------
 
-To cite this research please use the following: `TBD`
+To cite this research please use the following::
+   
+   @inproceedings{garcia-silva-etal-2024-space-ideas,
+       title = "{SPACE}-{IDEAS}: A Dataset for Salient Information Detection in Space Innovation",
+       author = "Garcia-Silva, Andres  and
+         Berrio, Cristian  and
+         Gomez-Perez, Jose Manuel",
+       editor = "Calzolari, Nicoletta  and
+         Kan, Min-Yen  and
+         Hoste, Veronique  and
+         Lenci, Alessandro  and
+         Sakti, Sakriani  and
+         Xue, Nianwen",
+       booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+       month = may,
+       year = "2024",
+       address = "Torino, Italy",
+       publisher = "ELRA and ICCL",
+       url = "https://aclanthology.org/2024.lrec-main.1311",
+       pages = "15087--15092",
+       abstract = "Detecting salient parts in text using natural language processing has been widely used to mitigate the effects of information overflow. Nevertheless, most of the datasets available for this task are derived mainly from academic publications. We introduce SPACE-IDEAS, a dataset for salient information detection from innovation ideas related to the Space domain. The text in SPACE-IDEAS varies greatly and includes informal, technical, academic and business-oriented writing styles. In addition to a manually annotated dataset we release an extended version that is annotated using a large generative language model. We train different sentence and sequential sentence classifiers, and show that the automatically annotated dataset can be leveraged using multitask learning to train better classifiers.",
+   }
 
 
 .. |PyPI pyversions| image:: https://badgen.net/pypi/python/black
